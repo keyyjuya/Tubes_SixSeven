@@ -10,9 +10,26 @@ SixSeven
 ## Algoritma
 1. SixSeven menerapkan strategi greedy dengan selalu memilih musuh terdekat sebagai target utama berdasarkan jarak minimum yang terdeteksi oleh radar. Selain itu, bot menggunakan perhitungan risk function untuk menentukan titik pergerakan dengan risiko paling kecil terhadap posisi musuh, sehingga bot dapat bergerak lebih aman sambil tetap menjaga efektivitas serangan menggunakan linear targeting dan adaptive bullet power.
 
-## Cara Run
-dotnet build
-dotnet run
+## Cara Menjalankan Program
+
+1. Clone repository ini ke mesin lokal Anda:
+
+git clone https://github.com/keyyjuya/Tubes_SixSeven
+
+2. Masuk ke folder project bot:
+
+cd src/main-bot/SixSeven
+
+3. Sesuaikan versi .NET pada file SixSeven.csproj dengan versi .NET yang terinstal pada perangkat Anda.
+
+4. Hapus folder bin dan obj jika ada, lalu jalankan:
+
+## Command Prompt
+./SixSeven.cmd
+## Bash
+./SixSeven.sh
+
+Jalankan aplikasi Robocode Tank Royale, lalu tambahkan folder bot hasil build ke dalam konfigurasi bot directory Robocode dan masukkan bot ke arena pertandingan.
 
 ## Author
 - Kezia Adelina Tamba (124140046)
