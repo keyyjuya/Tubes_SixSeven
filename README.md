@@ -1,5 +1,5 @@
 ## Deskripsi
-Project ini merupakan implementasi bot pada permainan Robocode Tank Royale untuk Tugas Besar 1 Strategi Algoritma. Bot dikembangkan menggunakan bahasa C# dan menerapkan strategi greedy dalam menentukan aksi selama pertempuran berlangsung. Pada permainan Robocode Tank Royale, setiap bot bertarung di arena hingga tersisa satu pemenang (battle royale). Seluruh aksi bot dikendalikan sepenuhnya oleh algoritma yang diprogram oleh pemain tanpa kontrol manual selama pertandingan berlangsung.
+Project ini merupakan implementasi bot pada permainan Robocode Tank Royale untuk Tugas Besar Strategi Algoritma. Bot dikembangkan menggunakan bahasa C# dan menerapkan strategi greedy dalam menentukan aksi selama pertempuran berlangsung. Pada permainan Robocode Tank Royale, setiap bot bertarung di arena hingga tersisa satu pemenang (battle royale). Seluruh aksi bot dikendalikan sepenuhnya oleh algoritma yang diprogram oleh pemain tanpa kontrol manual selama pertandingan berlangsung.
 ## Main Bot
 SixSeven
 ## Alternative Bots
