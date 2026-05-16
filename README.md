@@ -14,20 +14,20 @@ SixSeven
 
 1. Clone repository ini ke mesin lokal Anda:
 
-git clone https://github.com/keyyjuya/Tubes_SixSeven
+`git clone https://github.com/keyyjuya/Tubes_SixSeven`
 
 2. Masuk ke folder project bot:
 
-cd src/main-bot/SixSeven
+`cd src/main-bot/SixSeven`
 
 3. Sesuaikan versi .NET pada file SixSeven.csproj dengan versi .NET yang terinstal pada perangkat Anda.
 
 4. Hapus folder bin dan obj jika ada, lalu jalankan:
 
 ## Command Prompt
-./SixSeven.cmd
+`./SixSeven.cmd`
 ## Bash
-./SixSeven.sh
+`./SixSeven.sh`
 
 Jalankan aplikasi Robocode Tank Royale, lalu tambahkan folder bot hasil build ke dalam konfigurasi bot directory Robocode dan masukkan bot ke arena pertandingan.
 
