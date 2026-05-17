@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eC8y4Ua/8mM=",
+  "dgSpecHash": "NDrMBz4rfjQ=",
   "success": true,
-  "projectFilePath": "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\SixSeven.csproj",
+  "projectFilePath": "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\SixSeven.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kezia\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\kezia\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

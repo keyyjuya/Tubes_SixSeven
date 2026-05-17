@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\SixSeven.csproj": {}
+    "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\SixSeven.csproj": {}
   },
   "projects": {
-    "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\SixSeven.csproj": {
+    "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\SixSeven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\SixSeven.csproj",
+        "projectUniqueName": "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\SixSeven.csproj",
         "projectName": "SixSeven",
-        "projectPath": "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\SixSeven.csproj",
+        "projectPath": "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\SixSeven.csproj",
         "packagesPath": "C:\\Users\\kezia\\.nuget\\packages\\",
-        "outputPath": "C:\\TUBES STIMA 2026\\tubes1-if2211-starter-pack-main\\tubes1-if2211-starter-pack-main\\sample-bots-csharp-0.30.0\\SixSeven\\obj\\",
+        "outputPath": "C:\\TUBES STIMA 6\\Tubes_SixSeven\\src\\main.bot\\SixSeven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kezia\\AppData\\Roaming\\NuGet\\NuGet.Config"
