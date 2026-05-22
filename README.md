@@ -3,9 +3,9 @@ Project ini merupakan implementasi bot pada permainan Robocode Tank Royale untuk
 ## Main Bot
 SixSeven
 ## Alternative Bots
--
--
--
+- 67alter
+- keyju
+- TOP67
 
 ## Algoritma
 1. SixSeven menerapkan strategi greedy dengan selalu memilih musuh terdekat sebagai target utama berdasarkan jarak minimum yang terdeteksi oleh radar. Selain itu, bot menggunakan perhitungan risk function untuk menentukan titik pergerakan dengan risiko paling kecil terhadap posisi musuh, sehingga bot dapat bergerak lebih aman sambil tetap menjaga efektivitas serangan menggunakan linear targeting dan adaptive bullet power.
