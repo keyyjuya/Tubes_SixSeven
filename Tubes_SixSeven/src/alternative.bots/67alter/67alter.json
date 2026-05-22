@@ -1,0 +1,10 @@
+{
+  "name": "67 alter",
+  "version": "1.0",
+  "authors": ["Natha,Kezia,Sahal"],
+  "description": "A bot with padded square path avoiding wall, while sweeping all arena dan predict the gun angle to shoot the enemy",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}

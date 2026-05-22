@@ -1,0 +1,10 @@
+{
+  "name": "TOP 67",
+  "version": "1.0",
+  "authors": ["Natha,Kezia,Sahal"],
+  "description": "bot maju mundur cantik, bisa nembak bejir",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}
