@@ -27,22 +27,22 @@ SixSeven
 4. Remove the bin and obj folders if they exist: `rm -rf bin obj`
 
 5. Build and run the bot:
- - Windows (Command Prompt or PowerShell):
-
-`dotnet build`
-`dotnet run --no-build`
-- Linux / Mac:
-
-`dotnet build
-`dotnet run --no-build
-## Or use the provided scripts:
-
-- Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
-
-- Linux/Mac: Grant permission then run
-
-`chmod +x SixSeven.sh`
-`./SixSeven.sh`
+   - Windows (Command Prompt or PowerShell):
+   
+   `dotnet build`
+   `dotnet run --no-build`
+   - Linux / Mac:
+   
+   `dotnet build
+   `dotnet run --no-build
+   ## Or use the provided scripts:
+   
+   - Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
+   
+   - Linux/Mac: Grant permission then run
+   
+   `chmod +x SixSeven.sh`
+   `./SixSeven.sh`
 
 6. Run the Robocode Tank Royale application, then add the bot build folder to the bot directory configuration in Robocode and place the bot into the battle arena.  
 
