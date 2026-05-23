@@ -42,11 +42,14 @@ SixSeven
 - Linux/Mac: Grant permission then run
 
 `chmod +x SixSeven.sh`
-`./SixSeven.sh`  
-6. Run the Robocode Tank Royale application, then add the bot build folder to the bot directory configuration in Robocode and place the bot into the battle arena.
+`./SixSeven.sh`
+
+6. Run the Robocode Tank Royale application, then add the bot build folder to the bot directory configuration in Robocode and place the bot into the battle arena.  
 
 
-Author
+## Author
 1. Kezia Adelina Tamba (124140046)
+
 2. Nathania Calista Hutapea (124140101)
+
 3. Sahal Alvin Zairy (124140167)
