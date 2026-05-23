@@ -18,32 +18,32 @@ SixSeven
 4. 67 alter is a bot that focuses on staying in the center of the arena. It moves in a zigzag pattern at a 75-degree angle relative to the enemy. The zigzag direction changes randomly every 10 to 25 turns to make its movement unpredictable. When hit by a bullet or detecting enemy fire, it will immediately reverse direction and dash forward to evade. Its main weakness is a very weak firing system, proven by zero bullet damage in two out of three test sessions.
 
 ## How to Run the Program
-1. Clone this repository to your local machine: ` git clone https://github.com/keyyjuya/Tubes_SixSeven
-2. Navigate to the bot project folder: `cd src/main-bot/SixSeven
+1. Clone this repository to your local machine: `git clone https://github.com/keyyjuya/Tubes_SixSeven`
+
+2. Navigate to the bot project folder: `cd src/main-bot/SixSeven`
+
 3. Adjust the .NET version in the SixSeven.csproj file to match the .NET version installed on your device.
 
-4. Remove the bin and obj folders if they exist:
+4. Remove the bin and obj folders if they exist:`rm -rf bin obj
 
-`rm -rf bin obj
 5. Build and run the bot:
 
 - Windows (Command Prompt or PowerShell):
 
-`dotnet build
-`dotnet run --no-build
+`dotnet build`
+`dotnet run --no-build`
 - Linux / Mac:
-
 
 `dotnet build
 `dotnet run --no-build
 ## Or use the provided scripts:
 
-- Windows: Double-click `SixSeven.cmd or run `SixSeven.cmd in CMD
+- Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
 
 - Linux/Mac: Grant permission then run
 
-`chmod +x SixSeven.sh
-./SixSeven.sh
+`chmod +x SixSeven.sh`
+`./SixSeven.sh`
 6. Run the Robocode Tank Royale application, then add the bot build folder to the bot directory configuration in Robocode and place the bot into the battle arena.
 
 Author
