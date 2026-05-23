@@ -18,7 +18,7 @@ SixSeven
 4. 67 alter is a bot that focuses on staying in the center of the arena. It moves in a zigzag pattern at a 75-degree angle relative to the enemy. The zigzag direction changes randomly every 10 to 25 turns to make its movement unpredictable. When hit by a bullet or detecting enemy fire, it will immediately reverse direction and dash forward to evade. Its main weakness is a very weak firing system, proven by zero bullet damage in two out of three test sessions.
 
 ## How to Run the Program
-1. Clone this repository to your local machine: `git clone https://github.com/keyyjuya/Tubes_SixSeven
+1. Clone this repository to your local machine: ` git clone https://github.com/keyyjuya/Tubes_SixSeven
 2. Navigate to the bot project folder: `cd src/main-bot/SixSeven
 3. Adjust the .NET version in the SixSeven.csproj file to match the .NET version installed on your device.
 
