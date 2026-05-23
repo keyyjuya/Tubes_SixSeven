@@ -33,8 +33,8 @@ SixSeven
    `dotnet run --no-build`
    - ## Linux / Mac:
    
-   `dotnet build
-   `dotnet run --no-build
+   `dotnet build`
+   `dotnet run --no-build`
    ## Or use the provided scripts:
    
    - Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
