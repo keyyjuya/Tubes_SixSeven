@@ -47,8 +47,9 @@ SixSeven
 
 
 ## Author
-1. Kezia Adelina Tamba (124140046)
 
-2. Nathania Calista Hutapea (124140101)
+## 1. Kezia Adelina Tamba (124140046)
 
-3. Sahal Alvin Zairy (124140167)
+## 2. Nathania Calista Hutapea (124140101)
+
+## 3. Sahal Alvin Zairy (124140167)
