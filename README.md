@@ -24,7 +24,7 @@ SixSeven
 
 3. Adjust the .NET version in the SixSeven.csproj file to match the .NET version installed on your device.
 
-4. Remove the bin and obj folders if they exist:`rm -rf bin obj
+4. Remove the bin and obj folders if they exist: `rm -rf bin obj`
 
 5. Build and run the bot:
 
