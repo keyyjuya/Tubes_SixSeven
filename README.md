@@ -27,19 +27,19 @@ SixSeven
 4. Remove the bin and obj folders if they exist: `rm -rf bin obj`
 
 5. Build and run the bot:
-   - Windows (Command Prompt or PowerShell):
+   - ## Windows (Command Prompt or PowerShell):
    
    `dotnet build`
    `dotnet run --no-build`
-   - Linux / Mac:
+   - ## Linux / Mac:
    
    `dotnet build
    `dotnet run --no-build
    ## Or use the provided scripts:
    
-   - Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
+   - ## Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
    
-   - Linux/Mac: Grant permission then run
+   - ## Linux/Mac: Grant permission then run
    
    `chmod +x SixSeven.sh`
    `./SixSeven.sh`
