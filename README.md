@@ -37,12 +37,11 @@ SixSeven
    `dotnet run --no-build
    ## Or use the provided scripts:
    
-   - ## Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
+   - Windows: Double-click `SixSeven.cmd` or run `SixSeven.cmd` in CMD
    
-   - ## Linux/Mac: Grant permission then run
-   
-   `chmod +x SixSeven.sh`
-   `./SixSeven.sh`
+   - Linux/Mac: Grant permission then run
+      `chmod +x SixSeven.sh`
+      `./SixSeven.sh`
 
 6. Run the Robocode Tank Royale application, then add the bot build folder to the bot directory configuration in Robocode and place the bot into the battle arena.  
 
