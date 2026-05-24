@@ -75,7 +75,7 @@ public class Top67 : Bot
         while (IsRunning)
         {
             // Cek mode defensif dari energi
-            isDefensiveMode = Energy < lowEnergyThreshold;
+            isDefensiveMode = false;
 
             // Nge-scan terus
             SetTurnRadarRight(360);
@@ -89,13 +89,15 @@ public class Top67 : Bot
             }
             
             // Gerak defensif kalo energi tipis
-            if (isDefensiveMode)
-            {
-                if (lastScannedBot != null) TrackTargetRadarOnly();
-                GoToNearestMiddleOfASide();
-                WaitFor(new MovementCompleteCondition(this));
-                MoveWavySide();
-            }
+if (isDefensiveMode)
+{
+    if (lastScannedBot != null) TrackTargetRadarOnly();
+    GoToNearestMiddleOfASide();
+    WaitFor(new MovementCompleteCondition(this));
+    // Gerakan maju mundur sederhana sebagai pengganti wave movement
+    SetForward(100);
+    SetBack(100);
+}
 
             // Kalau enggak, ngejar biasa
             else
